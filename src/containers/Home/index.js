@@ -29,7 +29,7 @@ export default class Home extends React.Component {
     return (
       <div className="home" style={{ padding: '24px'}}>
         <Box>
-          <h1 className="page_title">给xx的冰墩墩</h1>
+          <h1 className="page_title">给罗媚的冰墩墩</h1>
         </Box>
         <Box sx={{ width: '100%' }} style={{ maxWidth: '1200px', margin: 'auto' }}>
           <Grid container rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
